@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Michel Buczynski</title>
-    <link>https://mikeboutch.githuib.io/topics/</link>
+    <link>https://mikeboutch.github.io/topics/</link>
     <description>Recent content in Topics on Michel Buczynski</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     
-	<atom:link href="https://mikeboutch.githuib.io/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mikeboutch.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

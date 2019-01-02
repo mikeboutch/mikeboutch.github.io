@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Michel Buczynski</title>
-    <link>https://mikeboutch.githuib.io/post/</link>
+    <link>https://mikeboutch.github.io/post/</link>
     <description>Recent content in Posts on Michel Buczynski</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Tue, 01 Jan 2019 21:29:37 -0500</lastBuildDate>
     
-	<atom:link href="https://mikeboutch.githuib.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mikeboutch.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wellcome</title>
-      <link>https://mikeboutch.githuib.io/post/welcome/</link>
+      <link>https://mikeboutch.github.io/post/welcome/</link>
       <pubDate>Tue, 01 Jan 2019 21:29:37 -0500</pubDate>
       
-      <guid>https://mikeboutch.githuib.io/post/welcome/</guid>
+      <guid>https://mikeboutch.github.io/post/welcome/</guid>
       <description>Welcome &amp;ndash; Bienvenue &amp;ndash;
 Hi &amp;ndash; Bonjour</description>
     </item>
